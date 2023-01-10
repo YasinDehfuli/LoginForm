@@ -175,10 +175,13 @@ a:hover{
 	text-transform: uppercase;
 	margin: 1rem 0;
 	cursor: pointer;
-	transition: .5s;
+	transition: 777ms;
 }
 .btn:hover{
 	background-position: right;
+	display: block;
+	background-image: linear-gradient(to left, aqua, #38d39f, lightcyan);
+	transform: scale(104%);
 }
 
 
